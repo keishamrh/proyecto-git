@@ -6,3 +6,12 @@
 .color-enlace{
     color: white 
 }
+
+.jumbotron{
+    background-image: url("../img/image1.jpg");
+    background-size:cover;
+    color:white;
+}
+
+
+
